@@ -43,7 +43,7 @@ struct ContentView: View {
                 }
                 .navigationBarBackButtonHidden(true)
                 NavigationLink(destination: BottomSheetView()) {
-                    Text("BottomSheetView Mode")
+                    Text("BottomSheet Mode")
                         .font(.headline)
                         .foregroundColor(.white)
                         .padding()
