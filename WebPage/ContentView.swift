@@ -42,6 +42,17 @@ struct ContentView: View {
                         .padding(.horizontal)
                 }
                 .navigationBarBackButtonHidden(true)
+                NavigationLink(destination: BottomSheetView()) {
+                    Text("BottomSheetView Mode")
+                        .font(.headline)
+                        .foregroundColor(.white)
+                        .padding()
+                        .frame(minWidth: 0, maxWidth: .infinity)
+                        .background(Color.blue)
+                        .cornerRadius(15)
+                        .shadow(color: Color.black.opacity(0.4), radius: 10, x: 0, y: 10)
+                        .padding(.horizontal)
+                }
             }
         }
     }

@@ -14,6 +14,7 @@
 		02E9FB0529E08C7D003836F9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E9FB0429E08C7D003836F9 /* Constants.swift */; };
 		02EAE6EC29E0A65200C49CC8 /* SafariServiceModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */; };
 		02EAE6EE29E0B0BA00C49CC8 /* WebKitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */; };
+		02EAE6F029E0B9D900C49CC8 /* BottomSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EAE6EF29E0B9D900C49CC8 /* BottomSheetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		02E9FB0429E08C7D003836F9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariServiceModeView.swift; sourceTree = "<group>"; };
 		02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebKitView.swift; sourceTree = "<group>"; };
+		02EAE6EF29E0B9D900C49CC8 /* BottomSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				02E9FB0429E08C7D003836F9 /* Constants.swift */,
 				02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */,
 				02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */,
+				02EAE6EF29E0B9D900C49CC8 /* BottomSheetView.swift */,
 			);
 			path = WebPage;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				02E9FAF729E084D6003836F9 /* WebPageApp.swift in Sources */,
 				02EAE6EC29E0A65200C49CC8 /* SafariServiceModeView.swift in Sources */,
 				02E9FB0529E08C7D003836F9 /* Constants.swift in Sources */,
+				02EAE6F029E0B9D900C49CC8 /* BottomSheetView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
