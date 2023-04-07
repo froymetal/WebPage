@@ -13,6 +13,7 @@
 		02E9FAFE29E084D9003836F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02E9FAFD29E084D9003836F9 /* Preview Assets.xcassets */; };
 		02E9FB0529E08C7D003836F9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E9FB0429E08C7D003836F9 /* Constants.swift */; };
 		02EAE6EC29E0A65200C49CC8 /* SafariServiceModeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */; };
+		02EAE6EE29E0B0BA00C49CC8 /* WebKitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		02E9FAFD29E084D9003836F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		02E9FB0429E08C7D003836F9 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariServiceModeView.swift; sourceTree = "<group>"; };
+		02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebKitView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				02E9FAFC29E084D9003836F9 /* Preview Content */,
 				02E9FB0429E08C7D003836F9 /* Constants.swift */,
 				02EAE6EB29E0A65200C49CC8 /* SafariServiceModeView.swift */,
+				02EAE6ED29E0B0BA00C49CC8 /* WebKitView.swift */,
 			);
 			path = WebPage;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02E9FAF929E084D6003836F9 /* ContentView.swift in Sources */,
+				02EAE6EE29E0B0BA00C49CC8 /* WebKitView.swift in Sources */,
 				02E9FAF729E084D6003836F9 /* WebPageApp.swift in Sources */,
 				02EAE6EC29E0A65200C49CC8 /* SafariServiceModeView.swift in Sources */,
 				02E9FB0529E08C7D003836F9 /* Constants.swift in Sources */,
